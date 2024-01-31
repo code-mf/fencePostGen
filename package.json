@@ -1,7 +1,7 @@
 {
-  "name": "edgesgeometry",
+  "name": "fencePostGend",
   "version": "1.0.0",
-  "description": "How to use EdgesGeometry, which expects its target as a constructor argument.",
+  "description": "Generates Black Locust Trees",
   "keywords": [
     "outlines",
     "gltf",
